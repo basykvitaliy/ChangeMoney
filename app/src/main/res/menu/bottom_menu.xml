@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/yes_nal"
+        android:icon="@drawable/ic_baseline_monetization_on_24"
+        android:title="Наличка" />
+
+
+    <item
+        android:id="@+id/no_nal"
+        android:icon="@drawable/ic_baseline_attach_money_24"
+        android:title="Безнал" />
+</menu>
